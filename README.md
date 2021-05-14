@@ -26,7 +26,7 @@
 ```
 sudo bash geoDevice.sh
 $ URL: <Phishing URL>
-- send the url to the victim
+-- send the url to the victim
 ```
 * Additional Notes
 ```
