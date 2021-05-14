@@ -40,7 +40,7 @@ Manually type the lat & lon, or copy the coordinates from http://127.0.0.1/inspe
 <a href="https://github.com/CharlesTheGreat77">
   <img src="https://github-readme-stats.vercel.app/api?username=CharlesTheGreat77&show_icons=true&hide=commits" />
 </a>
-<a href="https://github.com/natee/website">
+<a href="https://github.com/CharlesTheGreat77">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesTheGreat77&layout=compact" />
 </a>
 
