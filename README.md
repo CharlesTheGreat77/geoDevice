@@ -51,4 +51,4 @@ Manually type the lat & lon, or copy the coordinates from http://127.0.0.1/inspe
 </p>
 
 ---
-⭐️ From [Gabe](https://github.com/CharlesTheGreat77)
+⭐️ From [Charles](https://github.com/CharlesTheGreat77)
